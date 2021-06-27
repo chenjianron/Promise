@@ -1,1 +1,1 @@
-# Promise
+本promise底层的实现是基于Promise/A+规范来的
